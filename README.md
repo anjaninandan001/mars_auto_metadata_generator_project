@@ -15,7 +15,7 @@ This project is a full-stack web application for **automated metadata generation
 - 📦 Lightweight and cost-efficient (supports Gemma 1B or local LLM)
 
 ---
-
+## Donna Pattal.pdf is for testing that i used in my code.
 ## 📁 Project Structure
 
 ```bash
