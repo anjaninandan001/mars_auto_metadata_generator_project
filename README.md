@@ -90,4 +90,5 @@ python app.py
 
 ## Project Link
 - 🌐 **Live Deployed Web App:** [Try it here](https://metagenerator-5.onrender.com/)  
-- 🎥 **Demo Video (2 min):** [Watch](https://drive.google.com/file/d/1XTtJrOJb1KYVVUL8K2RgfjjQT_Ofh169/view?usp=sharing)
+- 🎥 **Demo Video (2 min):** [Watch](https://drive.google.com/file/d/1XvzUW8z_Twt9EVTV0xYJUv_9ziIPdd9X/view?usp=sharing)
+
